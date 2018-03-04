@@ -13,5 +13,17 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kenne/Google Drive/5º Semestre/Arquitetura/Aula01TeoriaUSJT2018ArqSwSpringMVC/lib/spring-webmvc-4.2.4.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
